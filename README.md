@@ -26,7 +26,7 @@
 </div>
 <br>
 
-### **How to reach me:**
+<!-- ### **How to reach me:**
 
 <div style="display: inline_block;">
 
@@ -34,7 +34,7 @@
 
 <a href="https://quora.com/profile/Edilson-Matola-1" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" style="padding-left: 20px"/></a>
 
-<a href="https://medium.com/@edilsonmatola" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="padding-left: 20px"/></a>
+<a href="https://medium.com/@edilsonmatola" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="padding-left: 20px"/></a> -->
 
 <!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-left: 20px"/></a> -->
 
