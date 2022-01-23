@@ -5,8 +5,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/edilsonmatola/edilsonmatola/issues)
 
-<br>
-
 ## **Languages and Tools:**
 
 <div style="display: inline_block;">
@@ -34,14 +32,15 @@
 
 <a href="https://quora.com/profile/Edilson-Matola-1" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" style="padding-left: 20px"/></a>
 
-<a href="https://medium.com/@edilsonmatola" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="padding-left: 20px"/></a> -->
+<a href="https://medium.com/@edilsonmatola" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="padding-left: 20px"/></a>
 
-<!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-left: 20px"/></a> -->
+<a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-left: 20px"/></a>
 
-<!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-left: 20px"/></a> -->
-</div>
+<a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-left: 20px"/></a>
 
-<div style="margin-top: 60px">
+</div> -->
+
+<div>
 <a href="https://github.com/edilsonmatola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonmatola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
