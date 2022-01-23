@@ -1,13 +1,13 @@
 ## **About me:**
 
-<!-- - 💼 Software Engineer & Consultant -->
-
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/edilsonmatola/edilsonmatola/issues)
 
-## **Languages and Tools:**  
+<br>
+
+## **Languages and Tools:**
 
 <div style="display: inline_block;">
 <code><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -24,8 +24,9 @@
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </div>
+<br>
 
-## **How to reach me:**
+### **How to reach me:**
 
 <div style="display: inline_block;">
 
@@ -40,14 +41,9 @@
 <!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-left: 20px"/></a> -->
 </div>
 
-<div style="margin-top: 80px">
+<div style="margin-top: 60px">
 <a href="https://github.com/edilsonmatola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonmatola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonmatola&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-[instagram]: https://instagram.com/ediilsonmatola
-[twitter]: https://twitter.com/ediilsonmatola
-[linkedin]: https://linkedin.com/in/edilsonmatola
-[quora]: https://quora.com/profile/Edilson-Matola-1
