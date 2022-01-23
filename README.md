@@ -25,7 +25,7 @@
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </div>
 
-## **Connect with me:**
+## **How to reach me:**
 
 <div style="display: inline_block;">
 
@@ -35,9 +35,9 @@
 
 <a href="https://medium.com/@edilsonmatola" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="padding-left: 20px"/></a>
 
-<a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-left: 20px"/></a>
+<!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding-left: 20px"/></a> -->
 
-<a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-left: 20px"/></a>
+<!-- <a href="#" alt="Edilson Matola | Quora" target="_blank"><img align="left" alt="Edilson Matola | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding-left: 20px"/></a> -->
 </div>
 
 <div style="margin-top: 80px">
