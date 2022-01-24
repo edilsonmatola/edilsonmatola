@@ -11,15 +11,17 @@
 <code><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
