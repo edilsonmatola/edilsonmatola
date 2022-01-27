@@ -14,7 +14,6 @@
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code style="padding-left: 20px"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code style="padding-left: 20px"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
