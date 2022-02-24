@@ -34,9 +34,17 @@
 <code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" title="GraphQL"></code>
 </div>
 <br>
+	
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edilsonmatola&theme=github_dark" alt="edilsonmatola-profile-details" align = "center"/></p>
 
-<div>
-<a href="https://github.com/edilsonmatola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonmatola&show_icons=true&theme=tokyonight&count_private=true"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonmatola&layout=compact&langs_count=7&theme=tokyonight"/>
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonmatola&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="edilsonmatola" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edilsonmatola&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="edilsonmatola" align = "center"/></p>
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"></p><a href="#"><img alt="Edilson Matola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
