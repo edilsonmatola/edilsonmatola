@@ -46,5 +46,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"></p><a href="#"><img alt="Edilson Matola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"></p><a href="https://github.com/edilsonmatola/github-readme-activity-graph"><img alt="Edilson Matola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
