@@ -1,9 +1,10 @@
 ## **About me:**
 
+- 🎓 Computer and Telecommunications Engineering at ISUTC
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything [here](https://github.com/edilsonmatola/edilsonmatola/issues)
+- 🥅 2022 Goals: Contribute and create Open Source projects
+- 💬 Ask me about anything [here](https://github.com/edilsonmatola/edilsonmatola/issues), I like to help!
 
 ## **Languages and Tools:**
 
