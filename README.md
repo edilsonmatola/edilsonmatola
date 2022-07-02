@@ -1,29 +1,12 @@
-## **About me:**
+# 💫 About Me:
+🎓 Computer and Telecommunications Engineer at ISUTC<br>🌱 I’m currently learning everything 🤣<br>🤝 I’m looking to collaborate with other developers<br>🥅 2022 Goals: Contribute and create Open Source projects<br>💬 Ask me about anything here, I like to help!
 
-- 🎓 Computer and Telecommunications Engineering at ISUTC
-- 🌱 I’m currently learning everything 🤣
-- 🤝 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute and create Open Source projects
-- 💬 Ask me about anything [here](https://github.com/edilsonmatola/edilsonmatola/issues), I like to help!
 
-## **Languages and Tools:**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ediilsonmatola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edilson-matola-44b961237) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@edilsonmatola) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Edilson-Matola-1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Edilson_Mtl) 
 
-<div style="display: inline_block;">
-<code><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" style="cursor: pointer;"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" title="WordPress"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png" title="Python"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React.js"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code>
-<code style="padding-left: 20px; cursor: pointer;"><img height="20" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"></code>
-</div>
-<br>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 	
 <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edilsonmatola&theme=github_dark" alt="edilsonmatola-profile-details" align = "center"/></p>
@@ -35,6 +18,10 @@
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=edilsonmatola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="edilsonmatola" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"></p><a href="https://github.com/edilsonmatola/"><img alt="Edilson Matola Activity Graph" src="https://edilsonmatola-activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edilsonmatola) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Edilson_Matola)
+
+
+<!-- <summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"></p><a href="https://github.com/edilsonmatola/"><img alt="Edilson Matola Activity Graph" src="https://edilsonmatola-activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p> -->
 <!-- </details>
