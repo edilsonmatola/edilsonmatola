@@ -28,9 +28,3 @@
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edilsonmatola)
-
-  <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Edilson_Matola) -->
-
-<!-- <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"></p><a href="https://github.com/edilsonmatola/"><img alt="Edilson Matola Activity Graph" src="https://edilsonmatola-activity-graph.herokuapp.com/graph?username=edilsonmatola&bg_color=0D1117&color=be91f2&line=be91f2&point=FFFFFF&hide_border=true&" /></a></p> -->
-<!-- </details>
